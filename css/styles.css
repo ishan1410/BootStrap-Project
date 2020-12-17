@@ -1,19 +1,30 @@
-@media (max-width: 1028px){
-
-    .title-img{
-        position: static;
-        transform: rotate(0);
-    }
-
-}
-
-
 h1{
     font-family: 'Montserrat', sans-serif;
     font-weight: 800;
     font-size: 3.5rem;
     line-height: 1.5;
     color: white;
+}
+
+button{
+    margin-top: 30px;
+    margin-right: 10px;
+}
+
+i{
+    margin-right: 3px;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: 0.9rem;
+    color: rgb(77, 77, 77);
 }
 
 .navbar{
@@ -47,15 +58,6 @@ h1{
     
 }
 
-button{
-    margin-top: 30px;
-    margin-right: 10px;
-}
-
-i{
-    margin-right: 3px;
-}
-
 .title-img{
     width: 20%;
     transform: rotate(25deg);
@@ -75,17 +77,6 @@ i{
     padding: 5%;
 }
 
-h3{
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 700;
-}
-
-p{
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 300;
-    font-size: 0.9rem;
-    color: rgb(77, 77, 77);
-}
 
 .features-icons{
     color: #ef8172;
